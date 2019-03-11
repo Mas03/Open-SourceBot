@@ -5,9 +5,8 @@
   <p>
     <a href="https://discord.gg/jkAzNyB"><img src="https://discordapp.com/api/guilds/265499275088232448/embed.png?style=banner2" alt="Discord Server" /></a>
   </p>
+  <img src="./assets/logo.png" alt="{TheSourceCode} logo" />
 </div>
-
-![](https://avatars2.githubusercontent.com/u/24659713?s=460&v=4);
 
 ## Contributing 📝
 If you want to contibute to this project you can follow the steps below.
